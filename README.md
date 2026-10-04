@@ -1,2 +1,1 @@
-# SunsetSandsWeb
-Hotel web site
+# Hotel
